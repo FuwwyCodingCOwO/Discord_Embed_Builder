@@ -1,6 +1,6 @@
 Easy place to put this.
 
-Last things to do:
+Last things to do
 	Discord API interaction
 	Embed editor functions
 
