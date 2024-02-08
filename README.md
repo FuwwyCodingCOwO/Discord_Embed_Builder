@@ -2,7 +2,6 @@ Easy place to put this.
 
 Last things to do:
 	Discord API interaction
-
 	Embed editor functions
 
 This is currently not supported for Linux systems as it contains windows function calls.
