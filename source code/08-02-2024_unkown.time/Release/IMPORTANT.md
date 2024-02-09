@@ -1,0 +1,2 @@
+May contain bugs and please be cautious about downloading random executables. Odd thing for me to say considering that's what I'm releasing here.
+I will be trying to work in whatever way possible so that my application can become trusted.
